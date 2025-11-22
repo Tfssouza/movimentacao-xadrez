@@ -1,0 +1,3 @@
+# Projeto: Movimentação de Peças de Xadrez
+
+Este projeto implementa a movimentação de peças de xadrez (torre, bispo, rainha e cavalo) usando estruturas de repetição e recursão em C.
